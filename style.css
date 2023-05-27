@@ -1,0 +1,79 @@
+body {
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    background-color: black !important;
+    color: white !important;
+}
+
+#main_container {
+    text-align: center;
+    margin-top: 170px;
+
+}
+
+input {
+    border: 2px solid #8E8E8E;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 29px;
+    color: #8E8E8E;
+    padding: 10px 15px
+}
+
+button {
+    border: 2px solid #8E8E8E;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+
+    color: #8E8E8E;
+    padding: 15px 15px
+}
+
+#byname {
+    width: 30%;
+    margin-right: 20px;
+}
+
+#bymkt {
+    width: 10%;
+    margin-right: 20px;
+}
+
+#bypercen {
+    width: 11%;
+}
+
+#item_container {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 345px;
+    width: 55%;
+
+    color: rgb(181, 178, 178);
+}
+
+.coinimageclass {
+    width: 25px;
+    height: 25px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tabletr {
+
+    padding: 20px;
+}
+
+tr {
+    border-bottom: 1px solid white;
+
+}
+
+td {
+    padding: 15px 0;
+}
